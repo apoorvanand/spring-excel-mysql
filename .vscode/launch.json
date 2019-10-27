@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringBootUploadDownloadExcelFileApplication",
+            "request": "launch",
+            "mainClass": "com.grokonez.excelfile.SpringBootUploadDownloadExcelFileApplication",
+            "projectName": "SpringBootUploadDownloadExcelFile"
+        }
+    ]
+}
